@@ -11,3 +11,12 @@ if (str.length == 0 ) {
 }
 
 console.log(str);
+
+let nam = ("APNacOLlEge");
+let idx = 3;
+
+if(nam[idx] == nam[idx].toLowerCase()) {
+    console.log("charecter is lowercase");
+} else {
+    console.log("charecter is lowercase");
+}
